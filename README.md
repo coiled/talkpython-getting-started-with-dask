@@ -1,7 +1,10 @@
 # Getting Started with Dask
 
-This repository contains the material for Talk Python Training course on Getting Started with Dask.
+This repository contains the material for **Talk Python Training course** on Getting Started with Dask.
 
+In this **free** course, we will get you up to speed with Dask and show you how to easily convert pandas workloads to blazing Dask clusters (locally across cores or scaled-out across cloud servers).
+
+Learn more and take the course at: [training.talkpython.fm](https://training.talkpython.fm/courses/introduction-to-scaling-python-and-pandas-with-dask)
 
 ## Prerequisites
 
@@ -33,7 +36,7 @@ The binder project allows you to open Jupyter notebooks in this repository in an
 
 * From root directory:
 
-```talkpython-getting-started-with-dask```
+```cd talkpython-getting-started-with-dask```
 
 create a new conda environment:
 
