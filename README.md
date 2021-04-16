@@ -20,13 +20,13 @@ You get up and running in two ways:
 
 ### Launch Binder
 
-![]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/talkpython-getting-started-with-dask/master?urlpath=lab/tree/00-setup.ipynb)
 
 The binder project allows you to open Jupyter notebooks in this repository in an online executable environment. Click on the "launch binder" link in your browser window to get started. It might take a few minutes to start.
 
 *Note: Binder notebooks timeout if inactive for more than 10 mins.*
 
-### Local setup
+### Local setup (recommended)
 
 * [Fork this repository](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 
