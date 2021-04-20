@@ -6,13 +6,25 @@ In this **free** course, we will get you up to speed with Dask and show you how 
 
 Learn more and take the course at: [training.talkpython.fm](https://training.talkpython.fm/courses/introduction-to-scaling-python-and-pandas-with-dask)
 
+In this course, you will:
+
+* Explore the problems solved by Dask: What is big data and how can you work with it?
+* Learn the Dask API and how to use it
+* Analyze the NYC taxicab dataset with Dask on a local cluster
+* Scale that same computation to the cloud with Coiled
+* Connect to local and remote Dask cluster visualization and reporting dashboards
+* And more!
+
+
 ## Prerequisites
 
-- Python
+- Basic Python
+
+Not required, but nice to have:
 - pandas
 - JupyterLab
-- conda
-- terminal
+- conda (for local setup)
+- terminal (for local setup)
 
 ## Setup
 
